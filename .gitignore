@@ -30,4 +30,3 @@ vendor/*-manifest.json
 
 # Docs
 gh-pages
-node_modules
